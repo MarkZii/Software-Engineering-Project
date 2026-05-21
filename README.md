@@ -8,4 +8,4 @@ Key Features:
 * Real-time Validation: Check user inputs against the puzzle's mathematical constraints at any time.
 * Automatic Solver: Automatically solve puzzles and navigate through all possible valid solutions using a Backtracking algorithm implemented with the Template Method pattern.
 
-For more details, please read the "Project Report.pdf".
+For more details, please read the "Report_Project_Software_Engineering.pdf".
